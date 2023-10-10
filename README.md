@@ -33,6 +33,6 @@ annie.borisov@gmail.com
 
 1. [Project 1: Diploma project]
 - [Figma prototype](https://www.figma.com/file/qerYZrp4mFJuFJGp46pQ0a/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-Stets-(Copy)?type=design&node-id=1201%3A579&mode=design&t=X9OjZvAyOmRf89OM-1)
-- 
+-  [User story map](https://miro.com/app/board/uXjVMw-rXSA=/?share_link_id=11239540086)
 - [Project 2: Describe your project and provide a link]
 - [Project 3: Describe your project and provide a link]
