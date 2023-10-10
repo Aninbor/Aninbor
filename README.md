@@ -21,7 +21,7 @@ annie.borisov@gmail.com
 - 📈 Business Process Optimization
 - 🖥️ System Analysis
 - 🛡️ SQL Analystics
-- 🌐 Web Development
+- 🌐 Web API Design
 - 🤖 Automation
 
 ## 📈 GitHub Stats
